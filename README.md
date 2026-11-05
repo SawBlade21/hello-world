@@ -1,2 +1,2 @@
 # hello-world
-This is where she hello's a world.
+I am a human being. I have to make this for a class.
